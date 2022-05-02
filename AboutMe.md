@@ -1,7 +1,7 @@
 # Sarina Nikolic
-I like **chess** and I was born in Elmshorn.
+I like **chess** and was born in Elmshorn.
 - queen
-- rook
+- knight
 - pawn
 
 
