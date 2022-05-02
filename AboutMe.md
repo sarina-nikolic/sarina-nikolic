@@ -1,5 +1,5 @@
 # Sarina Nikolic
-## I like *chess* and I am born in Elmshorn.
+## I like **chess** and I am born in Elmshorn.
 
 
 
