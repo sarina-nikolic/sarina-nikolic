@@ -1,4 +1,4 @@
-# Sarina Nikolic
+# Sarina Nikolic :penguin:
 I like **chess** and was born in Elmshorn.
 - queen
 - knight
