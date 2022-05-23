@@ -1,10 +1,5 @@
 # Sarina Nikolic :penguin:
-I like **chess** and was born in Elmshorn.
+I like **chess** and coding.
 - queen
 - knight
 - and kajmak.
-
-
-
-# Wie oft arbeiten Sie im Schlafanzug?
-Never.
